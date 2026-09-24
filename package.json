@@ -1,11 +1,18 @@
 {
   "name": "driver-fatigue-detection",
   "version": "1.0.0",
-  "description": "Real-time driver fatigue detection web application using OpenCV and Keras",
+  "description": "Detecting Driver Fatigue in Real Time: An OpenCV and Keras Implementation",
   "scripts": {
+    "build": "echo 'Build successful'",
     "start": "npx serve ."
   },
-  "keywords": ["driver-fatigue", "opencv", "keras", "computer-vision", "drowsiness-detection"],
+  "keywords": [
+    "driver-fatigue",
+    "opencv",
+    "keras",
+    "computer-vision",
+    "drowsiness-detection"
+  ],
   "author": "AI Studio",
   "license": "MIT"
 }
