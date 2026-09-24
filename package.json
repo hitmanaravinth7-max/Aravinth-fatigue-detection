@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Detecting Driver Fatigue in Real Time: An OpenCV and Keras Implementation",
   "scripts": {
-    "build": "echo 'Build successful'",
+    "build": "mkdir -p public && cp index.html public/index.html && echo 'Build successful'",
     "start": "npx serve ."
   },
   "keywords": [
