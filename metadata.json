@@ -1,6 +1,6 @@
 {
-  "name": "AI Business Consultant",
-  "description": "Professional AI-powered business analytics, consulting, SWOT analysis, and sales forecasting dashboard.",
+  "name": "Driver Fatigue Detection",
+  "description": "Real-time driver drowsiness and fatigue monitoring system using OpenCV facial landmarks and Keras deep learning model.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

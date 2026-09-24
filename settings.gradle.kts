@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "AI Business Consultant"
+rootProject.name = "Driver Fatigue Detection"
 
 include(":app")
