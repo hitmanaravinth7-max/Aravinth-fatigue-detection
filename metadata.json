@@ -1,0 +1,6 @@
+{
+  "name": "AI Business Consultant",
+  "description": "Professional AI-powered business analytics, consulting, SWOT analysis, and sales forecasting dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
